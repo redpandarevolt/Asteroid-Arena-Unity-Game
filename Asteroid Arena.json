@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "playground",
+"dataUrl": "Asteroid Arena.data.unityweb",
+"asmCodeUrl": "Asteroid Arena.asm.code.unityweb",
+"asmMemoryUrl": "Asteroid Arena.asm.memory.unityweb",
+"asmFrameworkUrl": "Asteroid Arena.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
